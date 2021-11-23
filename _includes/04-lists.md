@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Philadelhpia Eagles
+2. Bryson Tiller
+3. J Cole
+  1. Bas
+  2. Yakuza
+  3. Persona
