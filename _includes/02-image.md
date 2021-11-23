@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Jalen Hurts](https://cdn.vox-cdn.com/thumbor/AJ53ic8fS1OsiiOJLdz8yjxlKiw=/0x0:3847x2565/1200x800/filters:focal(1592x896:2206x1510)/cdn.vox-cdn.com/uploads/chorus_image/image/70174041/usa_today_16959176.0.jpg)
